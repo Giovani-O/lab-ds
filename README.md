@@ -7,5 +7,5 @@ With Figma, we created the design itself, we also created dynamic components tha
 With Storybook, we were able to create a documentation for our components.
 
 ## Links
-[Figma](https://www.figma.com/file/XrkSyWxJ9WVptDfVLG4D91/Ignite-Lab-Design-System?node-id=0%3A1).
-[Storybook (Github Pages)](https://giovani-o.github.io/lab-ds/).
+> [Figma](https://www.figma.com/file/XrkSyWxJ9WVptDfVLG4D91/Ignite-Lab-Design-System?node-id=0%3A1).
+> [Storybook (Github Pages)](https://giovani-o.github.io/lab-ds/).
